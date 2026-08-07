@@ -1,0 +1,20 @@
+{
+  "naive": {
+    "query_count": 401,
+    "avg_response_ms": 242.5328200000331,
+    "min_response_ms": 215.59459999934916,
+    "max_response_ms": 307.46410000028845
+  },
+  "optimized": {
+    "query_count": 1,
+    "avg_response_ms": 16.88153000000966,
+    "min_response_ms": 15.508000000409083,
+    "max_response_ms": 24.588799999946787
+  },
+  "advanced": {
+    "query_count": 1,
+    "avg_response_ms": 19.731171999956132,
+    "min_response_ms": 18.28990000012709,
+    "max_response_ms": 28.201699999954144
+  }
+}
